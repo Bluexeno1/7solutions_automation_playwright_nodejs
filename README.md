@@ -1,0 +1,1 @@
+# 7solutions_automation_playwright_nodejs
